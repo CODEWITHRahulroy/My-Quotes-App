@@ -68,4 +68,5 @@ dependencies {
     implementation(libs.gson.converter)
 
     //Lifecycle Runtime Compose
+    implementation(libs.lifecycle.compose)
 }
